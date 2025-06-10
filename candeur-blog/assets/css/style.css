@@ -1,0 +1,165 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+body{
+    font-size: 1rem;
+}
+
+/* header */
+header{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color:white;
+    position:sticky;
+    top:0;
+    right:0;
+    left:0;
+}
+.navbar-reduce{
+    position:unset;
+    top:0;
+    left:0;
+    right:0;
+}
+header .head-r img:first-child{
+    display:block;
+}
+header .head-r img:not(:first-child){
+    display:none;
+}
+header .navbar-reduce .head-r img:first-child{
+     display:none;
+}
+header .navbar-reduce .head-r img:not(:first-child){
+    display:block;
+}
+.top{
+    display: flex;
+} 
+.head-p img{
+    width: 100%;
+}
+.head-l{
+    margin-right: 5px;
+    /*filter:invert(1);*/
+}
+/*.head-r{*/
+/*    filter:invert(1);*/
+/*}*/
+/*#navbarNav li a{*/
+/*    color:white;*/
+/*}*/
+/* portion1*/
+.p1{
+    margin-top: 25px;
+}
+
+.blog{
+    display: flex;
+}
+
+/* Portion2 */
+.p2-text{
+    margin-top: 25px;
+}
+
+.read-m a{
+    text-decoration: none;
+    color:#f16e22;
+    font-size: 20px;
+    font-weight:600;
+}
+
+/* Portion3 */
+.p4{
+    padding-top:10px
+}
+.p4-sec{
+    background-color: rgb(33, 37, 41, 1);
+    color: white;
+    padding-top: 15px;
+}
+.p4-m .align{
+    margin-right: 8px;
+}
+.p4-r{
+    text-align: center;
+}
+
+
+/* 125% */
+@media (min-width: 1045px) and (max-width: 1100px){
+    .navbar-collapse ul{
+        font-size: 12px;
+
+    }
+}
+
+/* 110% */
+@media (min-width: 1101px) and (max-width: 1200px){ /* 1299 is max-width, i changed for 1200 */
+    .navbar-collapse ul{
+        font-size: 12px;
+
+    }
+}
+
+/* 80% and 90% */
+@media (min-width: 1400px) and (max-width: 1800px){
+
+    .navbar-collapse ul{
+        font-size: 19px;
+    }
+}
+
+@media (min-width: 1801px) and (max-width: 2200px){
+    .navbar-collapse ul{
+        font-size: 19px;
+    }
+    
+}
+@media (min-width: 992px) and (max-width: 1044px){
+    .navbar-collapse ul{
+        font-size: 16px;
+    }
+
+}
+
+/* large tab */
+@media (min-width: 992px) and (max-width: 1044px){
+
+    .navbar-collapse ul{
+        font-size: 12px;
+    }
+}
+
+/* Tab */
+@media (min-width: 768px) and (max-width:991px){
+
+    .head-r{
+        display: none;
+    }
+    .navbar-collapse ul{
+        font-size: 13px;
+    }
+    
+
+}
+
+
+@media (min-width:100px) and (max-width:767px){
+    
+    .head-r{
+        display: none;
+    }
+    .navbar{
+        justify-content: end!important;
+    }
+    
+    .p4{
+        font-size: 0.62rem;
+    }
+    
+}
