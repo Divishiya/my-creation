@@ -1,0 +1,1267 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" media="print" onload="this.onload=null;this.removeAttribute('media');">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" media="print" onload="this.onload=null;this.removeAttribute('media');">
+        <link rel="stylesheet" href="assets/css/style1.css">
+
+    </head>
+    <body>
+        <header class="top">
+        <div class="container-fluid p-0 align-items-center">
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-10 menu-bar">
+                    <nav class="navbar navbar-expand-sm">
+                    <a href="practice.php">
+                        <img src="assets/images/lakescape-logo.png"  alt="Candeur lakescape" width=200 height=50>
+                    </a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div  class="collapse navbar-collapse space-hid" id="navbarNav">
+                                <ul class="header-nav navbar-nav ">
+                                <li class="nav-item">
+                                    <a href="#mid-2" class="nav-link">
+                                        <img src="assets/images/h1.png" alt="pause-icon" class="hide-img"><p>Walkthrough</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#mid-4">
+                                        <img src="assets/images/h3.png" alt="icon" class="hide-img"><p>Floor Plan</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#mid-6">
+                                        <img src="assets/images/h2.png" alt="icon" class="hide-img"><p>Construction progress</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="assets/images/h4.png" alt="icon" class="hide-img"><p>Amenties</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="assets/images/h5.png" alt="icon" class="hide-img"><p>Contact us</p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>  
+                    </nav>
+                </div>
+                <div class="logo-right col-12 col-md-2 col-lg-2">
+                    <img src="assets/images/candeur-logo.webp" alt="logo" width=200 height=50>
+                </div>
+            </div>
+        </div>
+        </header>
+        <div class=" overflow-hidden mid-1 desk-bn">
+            <div class="container-fluid p-0">
+                <div class="sec-1">
+                    <video autoplay="" muted="" class="mot">
+                        <source src="assets/videos/banner.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+            </div>
+            
+        </div>
+<!-- sub section -->
+        <div class="sub-section overflow-hidden mid-1 mob-bn">
+            <div class="container-fluid p-0">
+                <div class="sec-1">
+                    <video autoplay="" muted="" class="mot">
+                        <source src="assets/videos/banner-mob.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+            </div>
+            
+        </div>
+
+        <div id="mid-2">
+            <div class="container-fluid p-0">
+                <div class="sec-2 row">
+                    <div class="sec-2-ps col-12 col-md-6 col-lg-6">
+                        <div class="pulse">
+                            <a href="https://www.youtube.com/watch?v=M0ttBfE-WZ4"></a>
+                        </div>
+                        <div class="pulse-img">
+                        <img src="assets/images/play.png" width=50 height=50 alt="play-btn" class="sec-2-right">
+                        </div>
+                        <div class="font">
+                            <a>
+                            <p class="sec-2-p">
+                                <img src="assets/images/maximize.png" alt="maximize" width=20 height=20>EXPAND YOUR VIEW FOR ULTIMATE LUXURY!
+                            </p>
+                            </a>
+                            <p class="sec-2-text">
+                                THE KEY TO <span> GRANDEUR </span> <br>REVEALING THE EXCEPTIONAL
+                            </p>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+        <div class="mid-3">
+            <div class="container sec-3">
+                <div class="row">
+                    <div class="col-6 col-md-3 col-lg-3">
+                        <div class="sec-3-align bd ">
+                            <img src="assets/images/residence.png" alt="residence"><p>G+ 47 <br> FLOORS</p>
+                        </div>  
+                    </div>
+                    <div class="col-6 col-md-3 col-lg-3">
+                        <div class="sec-3-align bd">
+                        <img src="assets/images/unit-testing.png" alt="unit"><p>11FT <br>HIGH CEILING</p>
+                        </div>  
+                    </div>
+                    <div class="col-6 col-md-3 col-lg-3">
+                        <div class="sec-3-align bd">
+                        <img src="assets/images/location.png" alt="location"><p>KONDAPUR <br>LOCATION</p>
+                        </div>  
+                    </div>
+                    <div class="col-6 col-md-3 col-lg-3">
+                        <div class="sec-3-align">
+                        <img src="assets/images/club.png" alt="club"><p>G+11 FLOORS <br> CLUBHOUSE</p>
+                        </div>  
+                    </div>
+                </div>
+            </div>
+        </div>
+        <section id="mid-4">
+            <div class="container sec-4">
+                <div class="row">
+                    <div class="col-12 col-md-12 col-lg-12 sec-4-head">
+                        <h4>ELEVATE YOUR LIVING WITH</h4>
+                        <h3>VASTU INSPIRED FLOOR PLANS</h3>
+                    </div>
+                    <div class="nav d-flex  ">
+                        <div class=" n-w flex-column mt-5 col-12 col-md-4 col-lg-4">
+                            <div class="nav-item  sec-4-l-align">
+                                <a class="nav-link active" data-bs-toggle="pill" href="#Masterplan">Master Plan</a>
+                            </div>
+                            <div class="nav-item sec-4-l-align">
+                                <a class="nav-link " data-bs-toggle="pill" href="#tower-a">4 BHK</a>
+                            </div>
+                            <div class="nav-item sec-4-l-align">
+                                <a class="nav-link " data-bs-toggle="pill" href="#tower-b">3 BHK</a>
+                            </div>
+                            <div class="nav-item sec-4-l-align">
+                                <a class="nav-link " data-bs-toggle="pill" href="#tower-g1">2.5 BHK</a>
+                            </div>
+                            <div class="nav-item sec-4-l-align">
+                                <a class="nav-link " data-bs-toggle="pill" href="#tower-g2">2 BHK</a>
+                            </div>
+                        </div>
+                        <div class="tab-content col-12 col-md-8 col-lg-8" id="v-pills-tabContent">
+                            <div class="tab-pane active fade show" id="Masterplan">
+                                <img src="assets/images/masterplan1.webp" width=700 alt="Master-plan">
+                            </div>  
+                            <div class="tab-pane fade" id="tower-a">
+                                <img src="assets/images/tower-a1.webp" width=350 alt="tower-a1">
+                                <img src="assets/images/tower-a2.webp" width=350 alt="tower-a2">
+                            </div>
+                            <div class="tab-pane fade" id="tower-b">
+                                <img src="assets/images/tower-b-e1.webp" width=350 alt="tower-b-e1">
+                                <img src="assets/images/tower-b-e2.webp" width=350 alt="tower-b-e1">
+                            </div> 
+                            <div class="tab-pane fade" id="tower-g1">
+                                <img src="assets/images/tower-f-g1.webp" width=400 alt="tower-f-g1">
+                            </div> 
+                            <div class="tab-pane fade"  id="tower-g2">
+                                <img src="assets/images/tower-f-g2.webp" width=400 alt="tower-f-g2">
+                            </div>
+                          </div>  
+                        </div>
+                    </div>
+                    <div class="sec-4-last">
+                        <button data-bs-toggle="modal" data-bs-target="#modalexpand">
+                            Download Brochure
+                            <img src="assets/images/arrow_forward_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.png" alt="arrowfront" >
+                        </button>
+                    </div>
+                </div>
+        </section>
+        <section id="mid-5">
+            <div class="container sec-5">
+                <div class= row>
+                    <div class="col-12 col-md-5 col-lg-5 text-center sec-5-l-align">
+                        <h3>GLIMPSE OF CONSTRUCTION PROGRESS</h3>
+                        <P>December 2024</P>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-6 sec-5-r-align">
+                        <video autoplay="" muted="">
+                            <source src="assets/videos/_con.mp4">
+                        </video>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="mid-6">
+            <div class="container sec-6">
+                <div class="row">
+                    <div class="sec-6-head col-12 col-md-12 col-lg-12">
+                        <h4>Construction Progress</h4>
+                        <div class="owl-carousel col-12 col-md-4 col-lg-4">
+                            <div class="sec-6-align">
+                                <a>
+                                    <img src="assets/images/construction-dec-1-1.webp" alt="construction1">
+                                </a>
+                            </div>
+                            <div class="sec-6-align">
+                                <a>
+                                    <img src="assets/images/construction-dec-3-1.webp" alt="construction2">
+                                </a>
+                            </div>
+                            <div class="sec-6-align">
+                                <a>
+                                    <img src="assets/images/construction-dec-5-1.webp" alt="construction3">
+                                </a>
+                            </div>
+                            <div class="sec-6-align">
+                                <a>
+                                    <img src="assets/images/construction-dec-6-1.webp" alt="construction4">
+                                </a>
+                            </div>
+                            <div class="sec-6-align">
+                                <a>
+                                    <img src="assets/images/construction-dec-7-1.webp" alt="construction5">
+                                </a>
+                            </div>
+                            <div class="sec-6-align">
+                                <a>
+                                    <img src="assets/images/construction-dec-8-1.webp" alt="construction6">
+                                </a>
+                            </div>
+                            <div class="sec-6-align">
+                                <a>
+                                    <img src="assets/images/construction-dec-9-1.webp" alt="construction7">
+                                </a>
+                            </div>
+                            <div class="sec-6-align">
+                                <a>
+                                    <img src="assets/images/construction-dec-10-1.webp" alt="construction8">
+                                </a>
+                            </div>
+                            <div class="sec-6-align">
+                                <a>
+                                    <img src="assets/images/construction-dec-11-1.webp" alt="construction9">
+                                </a>
+                            </div>
+                            <div class="sec-6-align">
+                                <a>
+                                    <img src="assets/images/construction-dec-12-1.webp" alt="construction10">
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="mid-7">
+            <div class="container sec-7">
+                <div class="row">
+                    <div class="col-12 col-md-6 col-lg-6 ">
+                        <img src="assets/images/clubhouse.webp" alt="clubhouse" class="sec-7-l-align">
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-6 sec-7-r-align">
+                        <div class="sec-7-r-portion">
+                        <h4>ONE OF ITS KIND</h4>
+                        <h2>G+11 FLOOR LAVISH CLUBHOUSE</h2>
+                        </div>
+                        <ul>
+                            <li>
+                                <p class="mb-0 text-black-50"> Indulge in the Finest with Over 50 Premium Amenities.</p>
+                            </li>
+                            <li>
+                                <p class="mb-0 text-black-50 ">Breathe Easy in Our 70% Green Oasis.</p>
+                            </li>
+                            <li>
+                                <p class="mb-0 text-black-50">Live Life King-Size at Our 1,00,000 Sq. Ft. Lavish Clubhouse.</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="mid-8">
+            <div class="container sec-8">
+                <div class="row">
+                        <!--portion1 -->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="sec-8-l-align" >
+                            <h4>CLUBHOUSE AMENITIES [27]</h4> 
+                        </div>
+                        <!-- owl carousel applied -->
+                        <div class="owl-carousel owl-theme">
+                        
+                            <div class="in-out-item item">
+                                <img src="assets/images/a22.webp" alt="pool">
+                                <div class="game-name">
+                                    <h6>KIDS POOL ON GROUND LEVEL</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a23.webp" alt="hall">
+                                <div class="game-name">
+                                    <h6>BANQUET HALL WITH KITCHEN</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a24.webp" alt="pharmacy">
+                                <div class="game-name">
+                                    <h6>PHARMACY</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a25.webp" alt="supermarket">
+                                <div class="game-name">
+                                    <h6>SUPERMARKET</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a26.webp" alt="clinic">
+                                <div class="game-name">
+                                    <h6>CLINIC</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a27.webp" alt="ground">
+                                <div class="game-name">
+                                    <h6>INDOOR BADMINTON COURT</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a28.webp" alt="play">
+                                <div class="game-name">
+                                    <h6>DAY CARE</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a29.webp" alt="gym">
+                                <div class="game-name">
+                                    <h6>GYM</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a30.webp" alt="colors">
+                                <div class="game-name">
+                                    <h6>AEROBICS AND DANCE FLOOR</h6>
+                                </div>
+                            </div> 
+                            <div class="in-out-item item">
+                                <img src="assets/images/a31.webp" alt="room">
+                                <div class="game-name">
+                                    <h6>YOGA ROOM</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a32.webp" alt="bat-ball">
+                                <div class="game-name">
+                                    <h6>BILIARDS</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item" >
+                                <img src="assets/images/a33.webp" alt="tabletennis">
+                                <div class="game-name">
+                                    <h6>TABLE TENNIS</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a34.webp" alt="bath">
+                                <div class="game-name">
+                                    <h6>SAUNA AND STEAM BATH</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item" >
+                                <img src="assets/images/a35.webp" alt="restaurant">
+                                <div class="game-name">
+                                    <h6>RESTAURANT</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item" >
+                                <img src="assets/images/a36.webp" alt="workstation">
+                                <div class="game-name">
+                                    <h6>WORK STATION</h6>
+                                </div>
+                            </div>
+                            <div  class="in-out-item item">
+                                <img src="assets/images/a37.webp" alt="conference">
+                                <div class="game-name">
+                                    <h6>CONFERENCE HALL</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item" >
+                                <img src="assets/images/a38.webp" alt="salon">
+                                <div class="game-name">
+                                    <h6>SPA AND SALOON</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a39.webp" alt="home-theatre">
+                                <div class="game-name">
+                                    <h6>HOME THEATRE</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a40.webp" alt="pool">
+                                <div class="game-name">
+                                    <h6>SWIMMING POOL</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a41.webp" alt="room">
+                                <div class="game-name">
+                                    <h6>GUEST SUITS</h6>
+                                </div>
+                            </div>
+                            <div>
+                                <img src="assets/images/a42.webp" alt="games">
+                                <div>
+                                    <h6>BOARD GAMES</h6>
+                                </div>
+                            </div>
+                            <div >
+                                <img src="assets/images/a44.webp" alt="kichen">
+                                <div>
+                                    <h6>CAFE WITH KITCHEN</h6>
+                                </div>
+                            </div>
+                            <div>
+                                <img src="assets/images/a45.webp" alt="terrace">
+                                <div>
+                                    <h6>TERRACE SITTING AREA</h6>
+                                </div>
+                            </div>
+                            <div>
+                                <img src="assets/images/a46.webp" alt="barbeque">
+                                <div>
+                                    <h6>BARBEQUE ZONE</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                         <!--portion2 -->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="sec-8-r-align" >
+                            <h4>OUTDOOR AMENITIES [27]</h4> 
+                        </div>
+
+                        <!-- owl carousel applied -->
+                        <div class="owl-carousel owl-theme">
+                            <div class="in-out-item item">
+                                <img src="assets/images/a1.webp" alt="cycle">
+                                <div class="game-name">
+                                    <h6>CYCLING TRACK</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a2.webp" alt="amphi-theatre">
+                                <div class="game-name">
+                                    <h6>AMPHI THEATRE</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a3.webp" alt="yoga">
+                                <div class="game-name">
+                                    <h6>YOGA-LAWN</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a4.webp" alt="basket-ball">
+                                <div class="game-name">
+                                    <h6>HALF BASKET BALL COURT</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a5.webp" alt="skat">
+                                <div class="game-name">
+                                    <h6>SKATING</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a6.webp" alt="gym">
+                                <div class="game-name">
+                                    <h6>OUTDOOR GYM</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a8.webp" alt="tennis">
+                                <div class="game-name">
+                                    <h6>TENNIS COURT</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a9.webp" alt="chair">
+                                <div class="game-name">
+                                    <h6>SITTING PAVILION</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a10.webp" alt="park">
+                                <div class="game-name">
+                                    <h6>HAMMOCK PARK</h6>
+                                </div>
+                            </div> 
+                            <div class="in-out-item item">
+                                <img src="assets/images/a11.webp" alt="kids-play">
+                                <div class="game-name">
+                                    <h6>KIDS PLAY AREA</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a12.webp" alt="elder">
+                                <div class="game-name">
+                                    <h6>ELDER SITTING AREA</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item" >
+                                <img src="assets/images/a13.webp" alt="sandbed">
+                                <div class="game-name">
+                                    <h6>SAND BED</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a14.webp" alt="soccer">
+                                <div class="game-name">
+                                    <h6>MINI SOCCER FILED</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item" >
+                                <img src="assets/images/a15.webp" alt="cricket-practise">
+                                <div class="game-name">
+                                    <h6>CRICKET PRACTISE NET</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item" >
+                                <img src="assets/images/a16.webp" alt="workstation">
+                                <div class="game-name">
+                                    <h6>WORK STATION</h6>
+                                </div>
+                            </div>
+                            <div  class="in-out-item item">
+                                <img src="assets/images/a17.webp" alt="outdoor-tennis">
+                                <div class="game-name">
+                                    <h6>OUTDOOR TABLE TENNIS</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item" >
+                                <img src="assets/images/a18.webp" alt="park">
+                                <div class="game-name">
+                                    <h6>PETS PARK</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a19.webp" alt="jogging">
+                                <div class="game-name">
+                                    <h6>JOGGING TRACK</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a20.webp" alt="outdoor">
+                                <div class="game-name">
+                                    <h6>OUTDOOR RESIPITE AREAS</h6>
+                                </div>
+                            </div>
+                            <div class="in-out-item item">
+                                <img src="assets/images/a21.webp" alt="outdoor-pods">
+                                <div class="game-name">
+                                    <h6>OUTDOOR WORK PODS</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="mid-9">
+            <div class=" container sec-9">
+                <div class="row">
+                    <div class="sec-9-l-align col-12 col-md-6 col-lg-7">
+                        <div>
+                            <h4>ABOUT</h4>
+                            <h3>CANDEUR GROUP</h3>
+                        </div>
+                        <div>
+                            <p>Having planted our flag in Bangalore with five landmark creations, we are continuing our quest for creating quality residential landmarks in Hyderabad. Our unwavering growth and dedication are a testament to our pursuit of excellence in real estate.</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-5">
+                        <div class="text-center row">
+                        <div class="col-6 col-md-6 col-lg-6">
+                            <div>
+                                <p class="num">15</p>
+                                <p>Years of legacy</p>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-6 col-lg-6">
+                                <div>
+                                    <p class="num">5</p>
+                                    <p>Completed Projects</p>
+                                </div>
+                        </div>
+                        <div class="col-6 col-md-6 col-lg-6">
+                                <div>
+                                    <p class="num">6</p>
+                                    <p>Ongoing Projects</p>
+                                </div>
+                        </div>
+                        <div class="col-6 col-md-6 col-lg-6">
+                                <div>
+                                    <p class="num">9K+</p>
+                                    <p>Satisfied Customers</p>
+                                </div>
+                        </div>
+    
+                                
+                        </div>
+                    </div>
+                    <div class="sec-9-last">
+                        <div class="accordion" id="drop">
+                            <div class="accordion-item">
+                                <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#drop">
+                                    <div class="accordion-body">
+                                        <div>
+                                            <h6>THE CANDEUR GROUP'S LEGACY</h6>
+                                            <p>Elevating modern living, Candeur Group has planted its flag in Bangalore with five landmark creations and is now continuing its quest for creating quality residential landmarks in Hyderabad. Our relentless growth and steadfast dedication reflect our quest for unmatched excellence in the real estate arena.</p>
+                                        </div>   
+                                        <div>
+                                            <h6>DETAILS ABOUT CANDEUR GROUP</h6>
+                                            <p>With 15 years of legacy, Candeur Group has become synonymous with crafting extraordinary living spaces that set new standards for contemporary life. Under the esteemed banner of Candeur Constructions Pvt Ltd, our projects are a testament to seamless execution and unparalleled success. Our collective is the brainchild of industry titans whose vision and expertise propel our endeavors. We're not just building homes; we're crafting masterpieces that shatter expectations. Raising the bar with every brick, Candeur Group is now a benchmark in the sphere of real estate.</p>
+                                        </div>  
+                                        <div>
+                                            <h6>ON-TIME DELIVERY</h6>
+                                            <p>Candeur Group is renowned for its dedication to completing projects on time. We guarantee that each development is completed and delivered according to the schedule, showcasing our commitment to dependability and effectiveness in meeting deadlines.</p>
+                                        </div>   
+                                        <div>
+                                            <h6>UNMATCHABLE SPECIFICATION</h6>
+                                            <p>We are committed to setting the highest standards in construction. Our projects feature premium materials and meticulous attention to detail, ensuring that every home meets our stringent specifications and exceeds industry norms.</p>
+                                        </div>  
+                                        <div>
+                                            <h6>CRAFTING SOUTH INDIA'S TALLEST STRUCTURE</h6>
+                                            <p>Candeur Group proudly holds the distinction of creating the tallest tower in South India. This landmark achievement underscores our leadership and innovative approach to constructing iconic structures that define city skylines.</p>
+                                        </div> 
+                                    </div>
+                                </div>
+                                <div class="sec-9-last-btn mx-auto">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"  data-bs-target="#collapseOne">Read more
+                                    </button>
+                                </div> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="mid-10">
+            <div class=container>
+                <div class="row">
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div id="carousel-slide" class="carousel slide" data-bs-ride="carousel"> 
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="assets/images/about_1.png" alt="pool">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/images/about_2.png" alt="pool">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/images/about_3.png" alt="pool">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/images/about_4.png" alt="pool">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/images/about_5.png" alt="pool">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carousel-slide" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true">
+                                </span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carousel-slide" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true">
+                                </span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="sec-10-text col-12 col-md-6 col-lg-6">
+                        <div class="sec-10-r">
+                            <h4>ABOUT</h4>
+                            <h3>CANDEUR LAKESCAPE</h3>
+                            <p>Why Choose Candeur Lakescape?</p>
+                            <ul>
+                                <li>Experience grandeur like never before with 11 ft* high ceilings.</li>
+                                <li>One of its kind, a lavish G+11 floor clubhouse.</li>
+                                <li>Open up your view with elegant glass balcony designs</li>
+                                <li>Expansive 9.11-acre estate with 7 majestic towers rising 47 floors high.</li>
+                                <li>Scenic lake views and abundant natural light for a refreshing living experience</li>
+                                <li>Prime location with seamless connectivity to IT hubs, top schools, shopping centers & entertainment zones.</li>
+                            </ul>
+                        </div>
+                        <div class="accordion" id="drag-drop">
+                            <div class="accordion-item">
+                                <div id="drop1" class="accordion-collapse collapse" data-bs-parent="#drag">
+                                    <div id="read-more" class="accordion-body">
+                                        <p>Come home to serenity and sophistication at Candeur Lakescape, which offers seamless connectivity to IT hubs, shopping, entertainment, and easy access to Serilingampally and Hitech City.</p>
+                                        <h6>Welcome to Candeur Lakescape, where Elegance Meets Comfort</h6>
+                                        <p>Discover 2, 2.5, 3 & 4 BHK premium apartments in Kondapur, just 12 minutes from Gachibowli. Experience a harmonious blend of luxury, nature, and modern conveniences in a sprawling gated community designed to elevate your lifestyle.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <a href="#read-more" class="accordion-button" data-bs-toggle="collapse" data-bs-target="#drop1">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mid-11">
+            <div class="container sec-11">
+                <div class="row">
+                    <form>
+                        <div class="form-info col-12">
+                            <div class="form-group">
+                                <input type="text" id="inputname" class="form-control input-text" placeholder="Name" required>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" id="inputemail" class="form-control input-email" placeholder="Email" required>
+                            </div>
+                            <div class="form-group">
+                                    <select class="form-control">
+                                        <option value="+91">IN - India (+91)</option>
+                                        <option value="+91">CA - Canada (+1)</option>
+                                        <option value="+91">DE - Germany (+49)</option>
+                                        <option value="+91">IT - Italy (+39)</option>
+                                        <option value="+91">KW - Kuwait (+965)</option>
+                                        <option value="+91">LV - Latvia (+371)</option>
+                                        <option value="+91">NG - Nigeria (+234)</option>
+                                        <option value="+91">NP - Nepal (+977)</option>
+                                        <option value="+91">OM - Oman (+968)</option>
+                                        <option value="+91">QA - Qatar (+974)</option>
+                                        <option value="+91">RU - Russia (+7)</option>
+                                        <option value="+91">SA - Saudi Arabia (+966)</option>
+                                        <option value="+91">UA - Ukraine (+380)</option>
+                                        <option value="+91">UAE - United Arab Emirates (+971)</option>
+                                        <option value="+91">UK - United Kingdom (+44)</option>
+                                        <option value="+91">US - United States (+1)</option>
+                                    </select>
+                            </div>
+                            <div class="form-group">
+                                <input type="number" id="inputnumber" class="form-control input-number" placeholder="Phonenumber" required>
+                            </div>
+                            <div class="form-group">
+                                <select id="inputflat" class="form-control input-flat" required>
+                                    <option value>Flat Types</option>
+                                    <option value="4 BHK">4 BHK</option>
+                                    <option value="3 BHK">3 BHK</option>
+                                    <option value="2.5 BHK">2.5 BHK</option>
+                                    <option value="2 BHK">2 BHK</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" id="inputmessage" class="form-control input-message" placeholder="Message" required>
+                            </div>
+                            <div class="sec-11-last">
+                                    <button class="sec-11-btn">Enquire now</button>
+                            </div>
+                                
+                            </div>
+                        
+                    </form>
+                </div>
+            </div>
+        </div>
+        <section class="mid-12">
+            <div class="container sec-12">
+                <div class="row">
+                    <div class="col-12 col-md-12 col-lg-12">
+                        <div>
+                            <h4>FAQ'S</h4>
+                        </div>
+                        <div class="accordion" id="QA">
+                            <div class="accordion-item">
+                                <div  class="plus">
+                                    <button class="accordion-button" data-bs-toggle="collapse"  data-bs-target="#parentqa">
+                                        <span>Why should I consider purchasing an apartment in Kondapur, Hyderabad?</span>
+                                    </button>
+                                </div>
+                                <div class="accordion-collapse collapse" data-bs-parent="#QA" id="parentqa" >
+                                    <div class="accordion-body">
+                                        <h5>Kondapur provides various advantages to potential homebuyers:</h5>
+                                        <ul>
+                                            <li>Strategic position near IT centers, educational institutions, hospitals, and shopping malls.</li>
+                                            <li>Convenient access to primary roads and public transportation.</li>
+                                            <li>Relaxed atmosphere away from city life.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- FAQ-2 -->
+                                <div  class="plus">
+                                    <button class="accordion-button" data-bs-toggle="collapse"  data-bs-target="#faq2">
+                                        <span>Why should I consider purchasing an apartment in Kondapur, Hyderabad?</span>
+                                    </button>
+                                </div>
+                                <div class="accordion-collapse collapse" data-bs-parent="#QA" id="faq2" >
+                                    <div class="accordion-body">
+                                        <h5>Can you share more details on Candeur Lakescape's premium residences in Kondapur?</h5>
+                                        <p>Candeur Lakescape is one of Kondapur's most prestigious gated communities, offering beautiful living with opulent amenities such as swimming pools, fitness centers, manicured gardens, a premium clubhouse, a yoga zone, children's play areas, and 24-hour security. Every house-seeker dreams of purchasing a dream home in one of Candeur Lakescape's luxury apartments in Kondapur.</p>
+                                    </div>
+                                </div>
+                                <!-- FAQ-3 -->
+                                <div  class="plus">
+                                    <button class="accordion-button" data-bs-toggle="collapse"  data-bs-target="#faq3">
+                                        <span>What are the benefits of purchasing an apartment in Candeur Lakescape?</span>
+                                    </button>
+                                </div>
+                                <div class="accordion-collapse collapse" data-bs-parent="#QA" id="faq3" >
+                                    <div class="accordion-body">
+                                        <h5>Advantages of purchasing a flat in Candeur Lakescape include:</h5>
+                                        <ul>
+                                            <li>Development by a reputable real estate business.</li>
+                                            <li>Luxurious and spacious apartments in gated communities with incredible amenities.</li>
+                                            <li>RERA-approved projects provide better safety and transparency.</li>
+                                            <li>RERA-approved projects offer increased security and transparency.</li>
+                                            <li>Improved connection to various areas of Hyderabad.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- FAQ-4 -->
+                                <div  class="plus">
+                                    <button class="accordion-button" data-bs-toggle="collapse"  data-bs-target="#faq4">
+                                        <span>What types of residential apartments are there at Candeur Lakescape in Kondapur?</span>
+                                    </button>
+                                </div>
+                                <div class="accordion-collapse collapse" data-bs-parent="#QA" id="faq4" >
+                                    <div class="accordion-body">
+                                        <p>Candeur Lakescape provides a selection of quality 2&2.5 BHK and 3&4 BHK flats for sale in Kondapur, Hyderabad, tailored to meet various lifestyle requirements.</p>
+                                    </div>
+                                </div>
+                                <!-- FAQ-5 -->
+                                <div  class="plus">
+                                    <button class="accordion-button" data-bs-toggle="collapse"  data-bs-target="#faq5">
+                                        <span>Are there any nearby educational institutions, retail malls, hospitals, or workspaces in the Candeur Lakescape area?</span>
+                                    </button>
+                                </div>
+                                <div class="accordion-collapse collapse" data-bs-parent="#QA" id="faq5" >
+                                    <div class="accordion-body">
+                                        <p>Candeur Lakescape is in a great position, with international schools like Sancta Maria School and Chirec Int School nearby, hospitals like Citizens Specialty Hospital, and retail centers like Sarath City Retail Mall just a few minutes away.</p>
+                                    </div>
+                                </div>
+                                <!-- FAQ-6 -->
+                                <div class="plus">
+                                    <button class="accordion-button" data-bs-toggle="collapse"  data-bs-target="#faq6"> 
+                                        <span>What are the location benefits of Candeur Lakescape?</span>
+                                    </button>
+                                </div>
+                                <div class="accordion-collapse collapse" data-bs-parent="#QA" id="faq6" >
+                                    <div class="accordion-body">
+                                        <p>Advantages of purchasing a flat in Candeur Lakescape include:</p>
+                                        <ul>
+                                            <li>Rajiv Gandhi International Airport: 40 minutes</li>
+                                            <li>Nehru ORR: 13 minutes</li>
+                                            <li>Lingampalli Railway Station: 6 minutes</li>
+                                            <li>University of Hyderabad: 5 minutes</li>
+                                            <li>HITECH City: 5 minutes</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <!-- FAQ-7 -->
+                                <div  class="plus">
+                                    <button class="accordion-button" data-bs-toggle="collapse"  data-bs-target="#faq7">
+                                         <span>Is Candeur Lakescape a RERA-approved project?</span>
+                                    </button>
+                                </div>
+                                <div class="accordion-collapse collapse" data-bs-parent="#QA" id="faq7" >
+                                    <div class="accordion-body">
+                                        <p>Candeur Lakescape is a RERA-approved project. Candeur Lakescape's RERA number is PO2400005724.</p>
+                                    </div>
+                                </div>
+                                <!-- FAQ-8 -->
+                                <div  class="plus">
+                                    <button class="accordion-button" data-bs-toggle="collapse"  data-bs-target="#faq8"> 
+                                        <span>How can I explore buying an apartment at Candeur Lakescape in Kondapur?</span>
+                                    </button>
+                                </div>
+                                <div class="accordion-collapse collapse" data-bs-parent="#QA" id="faq8" >
+                                    <div class="accordion-body">
+                                        <p>To learn more about buying an apartment at Candeur Lakescape, please complete the enquiry form on the official website, and our dedicated sales staff will contact you.</p>
+                                    </div>
+                                </div>
+                                <!-- FAQ-9 -->
+                                <div  class="plus">
+                                    <button class="accordion-button" data-bs-toggle="collapse"  data-bs-target="#faq9">
+                                       <span> Are there any current infrastructure developments near Candeur Lakescape Apartments in Kondapur, Hyderabad?</span>
+                                    </button>
+                                </div>
+                                <div class="accordion-collapse collapse" data-bs-parent="#QA" id="faq9" >
+                                    <div class="accordion-body">
+                                        <p>Various infrastructure developments around Kondapur, including road extensions, flyovers, and Metro rail links, will improve the area's connectivity and accessibility.</p>
+                                    </div>
+                                </div>
+                                <!-- FAQ-10 -->
+                                <div  class="plus">
+                                    <button class="accordion-button" data-bs-toggle="collapse"  data-bs-target="#faq10">
+                                        <span> I'm searching for a gated community flat for my family around Kondapur and Gachibowli. Is Candeur Lakescape a good choice?</span>
+                                    </button>
+                                </div>
+                                <div class="accordion-collapse collapse" data-bs-parent="#QA" id="faq10" >
+                                    <div class="accordion-body">
+                                        <p>Yes. Candeur Lakescape is a highly desirable gated community in Kondapur. If you're looking for apartments for sale in Kondapur for your growing family, Candeur Lakescape could be a good option because it's close to Gachibowli, the Financial District, Hitec City, Tellapur, Kothaguda, Nanakramguda, Madhapur, and Kokapet.</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+</section>
+        <section class="mid-13">
+            <div class="container sec-13">
+                <h5>PROJECT APPROVED</h5>
+                <h2>BANKS</h2>
+                <div class="row d-flex">
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/SBI.webp" alt="sbi" >
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/hdfc.webp" alt="hdfc">
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/icici.webp" alt="icici">
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/axis.webp" alt="axis">
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/bajaj.webp" alt="bajaj">
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/bob.webp" alt="bob" >
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/national.webp" alt="pnb" >
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/ub.webp" alt="ub" >
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/canara.webp" alt="canara" >
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/idbi.webp" alt="idbi" >
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/lic.webp" alt="lic" >
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/boi.webp" alt="boi" >
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/maha.webp" alt="maharastra" >
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-1 bank">
+                        <img src="assets/images/capital.webp" alt="capital" >
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="mid-14">
+            <div class="container sec-14">
+                <div class="row">
+                    <div class="col-12 col-md-5 col-lg-5">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15222.423595043121!2d78.335403!3d17.478567!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93c7c236b2c7%3A0x25afca04b8cd2eeb!2sCandeur%20Lakescape!5e0!3m2!1sen!2sin!4v1744620623808!5m2!1sen!2sin" class="embed-map" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                        
+                    <div class="col-12 col-md-7 col-lg-7 sec-14-r">
+                        <div>
+                            <h3>CONTACT US</h3>
+                        </div>
+                        <div>
+                            <form>
+                                <!-- portion1 -->
+                                <div class="align-right">
+                                    <div class="align form-group">
+                                        <input type="text" name="name" class="form-control" placeholder="Name" required>
+                                    </div>
+                                    <div class="align form-group">
+                                        <input type="email" name="email" class="form-control" placeholder="Email">
+                                    </div>
+                                </div>
+                                <!-- portion 2 -->
+                                <div  class="align-right add">
+                                    <div class="align form-group d-flex sec-14-r">
+                                            <select class="form-control">
+                                                <option value="+91">IN - India (+91)</option>
+                                                <option value="+91">CA - Canada (+1)</option>
+                                                <option value="+91">DE - Germany (+49)</option>
+                                                <option value="+91">IT - Italy (+39)</option>
+                                                <option value="+91">KW - Kuwait (+965)</option>
+                                                <option value="+91">LV - Latvia (+371)</option>
+                                                <option value="+91">NG - Nigeria (+234)</option>
+                                                <option value="+91">NP - Nepal (+977)</option>
+                                                <option value="+91">OM - Oman (+968)</option>
+                                                <option value="+91">QA - Qatar (+974)</option>
+                                                <option value="+91">RU - Russia (+7)</option>
+                                                <option value="+91">SA - Saudi Arabia (+966)</option>
+                                                <option value="+91">UA - Ukraine (+380)</option>
+                                                <option value="+91">UAE - United Arab Emirates (+971)</option>
+                                                <option value="+91">UK - United Kingdom (+44)</option>
+                                                <option value="+91">US - United States (+1)</option>
+                                            </select>
+                                    </div>
+                                    <div class=" align form-group">
+                                        <input type="number" name="mobile" class="form-control" placeholder="Phone Number" required>
+                                    </div>
+                                </div>
+                                <!-- portion 3 -->
+                                 <div class="align-right"  >
+                                    <div class="align form-group">
+                                        <select class="form-control">
+                                            <option value="Flat types">Flat Types</option>
+                                            <option value="4 BHK">4 BHK</option>
+                                            <option value="3 BHK">3 BHK</option>
+                                            <option value="2.5 BHK">2.5 BHK</option>
+                                            <option value="2 BHK">2 BHK</option>
+                                        </select>
+                                    </div>
+                                    <div class=" align form-group">
+                                        <input type="text" id="contact-message" class="form-control" name="message" placeholder="Message" required>
+                                    </div>
+                                 </div>
+                                 <div class="sec-14-btn">
+                                    <button class="">Enquire Now</button>
+                                 </div>
+                            </form>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="mid-15">
+            <div class="container sec-15">
+                <div class="row">
+                    <!-- portion 1 -->
+                    <div class="log col-12 col-md-4 col-lg-4">
+
+                        <div class="sec15-logo">
+                            <img src="assets/images/lakescape-logo.png" alt="lakescape-logo">
+                        </div>
+
+                        <div class="social-media">
+                            <div class="media">
+                                <a href="https://www.facebook.com/Candeurlakescape">
+                                        <img src="assets/images/facebook.png" alt="fb">
+                                </a>
+                            </div>
+                            <div class="media">
+                                <a href="https://www.linkedin.com/company/candeur-lakescape/">
+                                    <img src="assets/images/linkedin.png" alt="linkedin">
+                                </a>
+                            </div>
+                            <div class="media">
+                                <a href="assets/images/youtube.png">
+                                    <img src="assets/images/youtube.png" alt="youtube">
+                                </a>
+                            </div>
+                            <div class="media">
+                                <a href="https://www.instagram.com/candeur_lakescape/#">
+                                    <img src="assets/images/instagram.png" alt="instagram">
+                                </a>
+                            </div>
+                            <div class="media">
+                                <a href="tel:+918111091114">
+                                    <img src="assets/images/phone1.png" alt="Phone">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- portion 2 -->
+                    <div class="col-12 col-md-4 col-lg-4">
+                        <div class="sec-15-head">
+                            <h5 style="color:white">QUICK LINKS</h5>
+                        </div>
+                        <div class="quick-list">
+                            <ul class="list">
+                                <li>
+                                    <a href="#mid-2">Walkthrough</a>
+                                </li>
+                                <li>
+                                    <a href="#mid-6">Construction Progress</a>
+                                </li>
+                                <li>
+                                    <a href="#mid-4">Floor Plan</a>
+                                </li>
+                            </ul>
+                        
+                            <ul class="list">
+                                <li>
+                                    <a href="">Amenities</a>
+                                </li>
+                                <li>
+                                    <a href="">Contact Us</a>
+                                </li>
+                                <li>
+                                    <a href="">Blog</a>
+                                </li> 
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- portion 3 -->
+                    <div class="address col-12 col-md-4 col-lg-4">
+                        <div>
+                            <h5>CANDEUR LAKESCAPE MARKETING OFFICE</h5>
+                        </div>
+                        <div>
+                            <p>Survey No. 71,72 &73 Road No. 4, Spring Valley, Hyderabad, Serilingampalle (M), Telangana, 500133</p>
+                        </div>
+                        <div class="call">
+                            <a href="tel:+918111091114"><img src="assets/images/call_24dp_EFEFEF_FILL0_wght400_GRAD0_opsz24.png" alt="call" class="call">+91 8111091114</a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer>
+            <div class="container">
+                <div class="row foot">
+                    <div class="col-12 col-md-7 col-lg-7">
+                        <p>Copyright © 2025 | Candeur Constructions Pvt.Ltd All rights reserved. | Powered by: G-Rank | Digital Marketing Partner</p>
+                    </div>
+                    <div class="condition col-12 col-md-3 col-lg-3">
+                        <div class="terms"><a href="#">TERMS & CONDITIONS</a></div>
+                        <div class="privacy"><a href="https://lakescapebycandeur.com/ultra-luxury-gated-community-apartments-in-kondapur-hyderabad/privacy-policy.php">PRIVACY POLICY</a></div>
+                    </div>
+                    <div class="col-12 col-md-2 col-lg-2">
+                        <p>SITE DISCLAIMER</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <div class="mid-16">
+            <div class="mid-16-icon">
+                <div class="fix">
+                    <a href="tel:+918111091114">
+                    <img src="assets/images/phone.png" alt="phone">
+                </a>
+                </div>
+                <div class="fix1">
+                <a href="#modalb" data-bs-toggle="modal" data-bs-target="#modalexpand">
+                    <img src="assets/images/download.png" alt="download">
+                </a>
+                </div>
+            </div>
+            <div class="modal" id="modalexpand">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1>Download brochure</h1>
+                        </div>
+                        <div class="modal-body" id="modalb">
+                            <form>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="Name">
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" placeholder="Email">
+                                </div>
+                                <div class="form-group">
+                                    <select class="form-control">
+                                        <option value="+91">IN - India (+91)</option>
+                                        <option value="+91">CA - Canada (+1)</option>
+                                        <option value="+91">DE - Germany (+49)</option>
+                                        <option value="+91">IT - Italy (+39)</option>
+                                        <option value="+91">KW - Kuwait (+965)</option>
+                                        <option value="+91">LV - Latvia (+371)</option>
+                                        <option value="+91">NG - Nigeria (+234)</option>
+                                        <option value="+91">NP - Nepal (+977)</option>
+                                        <option value="+91">OM - Oman (+968)</option>
+                                        <option value="+91">QA - Qatar (+974)</option>
+                                        <option value="+91">RU - Russia (+7)</option>
+                                        <option value="+91">SA - Saudi Arabia (+966)</option>
+                                        <option value="+91">UA - Ukraine (+380)</option>
+                                        <option value="+91">UAE - United Arab Emirates (+971)</option>
+                                        <option value="+91">UK - United Kingdom (+44)</option>
+                                        <option value="+91">US - United States (+1)</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <input type="tel" class="form-control" minlength="10" maxlength="12" placeholder="Phone Number">
+                                </div>
+                                <div class="form-group">
+                                <select class="form-control">
+                                    <option value="Flat types">Flat Types</option>
+                                    <option value="4 BHK">4 BHK</option>
+                                    <option value="3 BHK">3 BHK</option>
+                                    <option value="2.5 BHK">2.5 BHK</option>
+                                    <option value="2 BHK">2 BHK</option>
+                                </select>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="Message">
+                                </div>
+                            </form>
+                            <div class="modalbtn">
+                                <button >
+                                    Submit Now
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+            </div>
+        </div>
+        <!--<div class="mid-17">-->
+        <!--    <div class="whatsapp">-->
+        <!--        <a href="https://api.whatsapp.com/send?phone=+918111091114&text=%e2%80%8b%e2%80%8e%e2%80%8b%e2%80%8c%e2%80%8b%e2%80%8e%e2%80%8b%e2%80%8c%e2%80%8b%e2%80%8e%e2%80%8c%e2%80%8d%e2%80%8b%e2%80%8d%e2%80%8e%e2%80%8d%e2%80%8b%e2%80%8e%e2%80%8c%e2%80%8d%e2%80%8b%e2%80%8e%e2%80%8c%e2%80%8d%e2%80%8b%e2%80%8d%e2%80%8e%e2%80%8d%e2%80%8b%e2%80%8e%e2%80%8b%e2%80%8c%e2%80%8b%e2%80%8e%e2%80%8d%e2%80%8c%e2%80%8b%e2%80%8e%e2%80%8b%e2%80%8b%e2%80%8b%e2%80%8d%e2%80%8e%e2%80%8d%e2%80%8b%e2%80%8e%e2%80%8b%e2%80%8d%e2%80%8b%e2%80%8e%e2%80%8b%e2%80%8d%e2%80%8b%e2%80%8e%e2%80%8c%e2%80%8e%e2%80%8b%e2%80%8d%e2%80%8b%e2%80%8bHi">-->
+        <!--            <img src="assets/images/3670051.png" alt="whatsapp" width="40" height="45">-->
+        <!--        </a>-->
+        <!--    </div>-->
+        <!--</div>-->
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" async></script>
+     
+                    <script>
+            $(document).ready(function(){
+            $('.owl-carousel').owlCarousel({
+            loop: true,
+            margin: 10,
+            nav: true,
+            dots:false,
+            responsive: {
+            0: {
+            items: 1
+            },
+            600: {
+            items: 2
+            },
+            1000: {
+            items: 3
+            }
+            }
+            });
+            });
+            </script>
+            
+                </body>
+                </html>
+
+
+
+
+    
